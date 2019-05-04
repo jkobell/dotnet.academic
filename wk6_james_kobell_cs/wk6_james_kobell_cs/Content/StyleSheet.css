@@ -1,0 +1,99 @@
+﻿.module {
+    all:unset;
+}
+
+body {
+    background-color:lemonchiffon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: gray;
+    padding: 1.5em;
+}
+
+.val {
+    color: red;
+    font-weight: 700;
+}
+
+
+#GridView1 {
+    float: left;
+}
+
+#tbl3 {
+    border-collapse:collapse;
+}
+
+#DropDownList1 {
+    float: left;
+    margin-left: 3em;
+    padding: .5em;
+    font-weight: 800;
+    font-size: large;
+    background-color: aliceblue;
+}
+
+#Label8 {
+    
+    padding: .55em;
+    font-weight: 800;
+    font-size: large;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+
+.Label9 {
+    font-weight: 800;
+    color: red;
+    margin-left: 15%;
+}
+
+#tbl1, #tbl2 {
+    background-color:aliceblue;
+    border:1px solid black;
+    width: 100%;
+    
+}
+
+
+.td1 {
+    padding:5px 0 10px 5px;
+    text-align: center;
+}
+
+.txtRow1 {
+    width: 200px;
+}
+
+#btns {
+    float:left;
+}
+
+.btnRow1 {
+    
+    padding: 5px;
+}
+
+#txtRow1, #gv1 {
+    margin-left: 15%;
+    float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
