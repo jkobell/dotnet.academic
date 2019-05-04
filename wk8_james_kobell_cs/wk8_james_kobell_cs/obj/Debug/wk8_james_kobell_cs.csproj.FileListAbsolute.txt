@@ -1,0 +1,769 @@
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 1\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 2\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 3\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 4\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 5\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 6\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\rev 7\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Add3.resources
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 8\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Add3.resources
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\myASPcs\WK 8\Rev 9\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll.config
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\wk8_james_kobell_cs.pdb
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.exe.config
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csc.rsp
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.exe.config
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\csi.rsp
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.AppContext.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Collections.Immutable.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Console.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Compression.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.IO.Pipes.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Reflection.Metadata.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.AccessControl.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Claims.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.ValueTuple.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.exe.config
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\vbc.rsp
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\roslyn\VBCSCompiler.exe.config
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\EntityFramework.SqlServer.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Newtonsoft.Json.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Net.Http.Formatting.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\System.Web.Http.WebHost.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csprojAssemblyReference.cache
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Initial.resources
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.Migrations.Add3.resources
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.GenerateResource.cache
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CoreCompileInputs.cache
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.csproj.CopyComplete
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.dll
+C:\my464cs\final_submit_wk8\wk8_james_kobell_cs\wk8_james_kobell_cs\wk8_james_kobell_cs\obj\Debug\wk8_james_kobell_cs.pdb

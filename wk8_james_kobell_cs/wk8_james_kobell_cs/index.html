@@ -1,0 +1,465 @@
+﻿<!--/********************
+Author: James Kobell
+Date Created: 04/28/2019
+Description: This is ENTD464_Assignment_WK8
+Backend: Web API 2
+Frontend: jQuery
+Database: located in App_Data folder
+Start page: index.html 
+********************/-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ENTD464||Shopping Cart</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="Content/StyleSheet.css" />    
+    <script src="Scripts/jquery-3.3.1.js"></script>    
+</head>
+<body>
+    <script>
+        //global variables
+        var uriCat = 'api/categories';
+        var uriProdSel = '';
+        var tblProdSel0 = '';
+        var tblProdSel1 = '';
+        var tblProdSel2 = '';
+        var tblCart3 = {};
+        var custId = "";
+        var dataObj = {};
+        var saveCart3 = "";
+        var saveCart4 = "";
+        var saveCart = "";
+        var bldCart = "";
+        var saveBld = "";
+        var crtsel = '<option value="0">0</option><option value="1" selected>1</option><option value="2">2</option>' +
+            '<option value = "3" >3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option>' +
+            '<option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="20">20</option>';
+        var optVal = "";
+        var postArray = [];
+        var savArray1 = [];
+        var bldArray = [];
+        var j = 0;
+
+        var arrSel0 = "";
+        var arrSel1 = "";
+        var arrSel2 = "";
+        var arrSel3 = "";
+
+        var k = 0;
+        var arrObj0 = "";
+        var crtError = "";
+        var custRefId = "";
+
+        var rtnOrdArray =[];
+        var rtnOrdHTML = "";
+        var datFname = "";
+        var datLname = "";
+        
+
+        //loads 'Categories' into Select/Dropdown from Web API 2
+        $(document).ready(function () {
+            $("#dropdown").html('');
+            $("#dropdown").append('<option value="message">Select Category</option>');
+            // Sends AJAJ request
+            $.getJSON(uriCat)
+                .done(function (data) {
+                    // On success, 'data' contains a list of categories.
+                    $.each(data, function (key, val) {
+                        // categories are iterated into select option using response data.
+                        $("#dropdown").append('<option value="' + val.CategoryID + '">' + val.ShortName + '</option>');
+                    });
+                });
+        });
+
+        //gets products from selected category when dropdown is selected
+        $(document).on('change', '#dropdown', function () {
+            $('#tableDiv').show();    
+        
+            //concatenates api/controller string
+            uriProdSel = 'api/' + $('#dropdown option:selected').text();
+
+            //table header
+            var trHTML = '<tr><th>Product ID</th><th>Name</th><th>Price</th></tr>';
+            $('#prodTable').empty();
+
+            // Sends AJAJ request
+            $.getJSON(uriProdSel)
+                .done(function (data) {
+                    $.each(data, function (key, val) {
+                        trHTML += '<tr><td>' + val.ProductID + '</td><td>' + val.Name + '</td><td>' + val.Price + '</td></tr>';
+                    }); //product table is built with response data
+                    $('#prodTable').append(trHTML);
+                });
+        });
+
+        
+        $(document).ready(function () {
+
+            //build cart table
+            $("#prodTable").on("click", "tr", function () {
+                saveCart = "";
+                tblProdSel0 = $(this).find("td").eq(0).text();
+                tblProdSel1 = $(this).find("td").eq(1).text();
+                tblProdSel2 = $(this).find("td").eq(2).text();                
+                var trHTML = "";
+                trHTML += "<tr><td><input type='hidden' name='ProductID' value='" + tblProdSel0 + "' />" + tblProdSel0 + "</td><td><input type='hidden' name='Name' value='" + tblProdSel1 + "' />" + tblProdSel1 + "</td><td><input type='hidden' name='Price' value='" + tblProdSel2 + "' />" + tblProdSel2 +
+                    "</td><td><select id='cartSel' name='Quantity'>" + crtsel + "</select ></td ><td><button id='remItem' type='button'>Remove</button></td></tr >";
+                
+                $('#cartTable').append(trHTML);                
+                tblCart3 = $('#cartSel option:selected').text();                
+                saveCart3 = { ProductID:tblProdSel0, Name:tblProdSel1, Price:tblProdSel2, Quantity:tblCart3 };
+                saveCart = jQuery.param(saveCart3);
+                postArray.push(saveCart);
+                
+            });
+        });
+
+        //css background-color change in product table row when mouse events 
+        $(document).ready(function () {            
+
+            $("#prodTable").on("mousedown", "tr", function () {
+                $(this).css("background-color", "skyblue");                
+            });           
+
+            $("#prodTable").on("mouseup", "tr", function () {
+                $(this).css("background-color", "white");
+            });
+           
+        });
+        
+        $(document).ready(function () {
+            //remove cart row
+            $("#cartTable").on("click", "#remItem", function () {
+                $(this).closest("tr").remove();
+            });
+
+            //clear cart table
+            $("#cartTable").on("click", "#clearCart", function () {
+                $("#cartTable td").remove();
+            });
+        });
+
+        //show and hide 
+        $(document).ready(function () {
+            $('#cart').hide();
+            $('#custInfo').hide();
+            $('#rtn').hide();
+            $('#tableDiv').hide();
+        });
+
+        //show and hide when button click
+        $(document).ready(function () {
+            $('#showCart').click(function () {
+                $('#cart').show();
+            });
+        });
+
+        //show and hide when button click
+        $(document).ready(function () {
+            $('#contShop').click(function () {
+                $('#dropD').show();
+                $('#cart').hide();
+                $('#custInfo').hide();
+                $('#tableDiv').show();
+
+                
+                if (crtError == true) {
+                    $("#cartTable td").remove();
+                    crtError = false;                    
+                    frm2Val = false;
+                }
+
+            });
+        });
+
+        
+        $(document).ready(function () {
+            $('#chkOut').click(function () {
+                $('#dropD').hide();
+                $('#tableDiv').hide();
+                $('#custInfo').show();
+            });
+        });
+                
+
+       //begins save customer information form and cart to database - after form and cart validation
+        $.saveFrm = function () {
+
+            $('#dropD').hide();
+            $('#tableDiv').hide();
+            $('#cart').hide();
+            $('#custInfo').hide();
+            $('#btnDiv').hide();
+            
+            k = 0;
+            bldCart = "";
+            saveBld = "";
+            bldArray = [];
+            saveArray1 = "";           
+            var uriSave = 'api/Customers/PostCustomer'; 
+            var saveData = $('#frm2').serialize();
+            //ajax post - customer form information
+            $.post(uriSave, saveData)
+                .done(function (data) {
+                custRefId = data.CustomerId;
+                datFname = data.Fname;
+                datLname = data.Lname;                
+                    
+                })               
+
+                .always(function () {
+                    var uriCrtSav = 'api/Carts/PostCart';
+                    saveArray1 = $('#cartFrm :input').serializeArray();                             
+
+                    var arrLen = 0;
+                    arrLen = saveArray1.length / 4;                    
+                    //loop through cart table and serialize for ajax post
+                    for (i = 0; i < arrLen; i++) {
+                                                
+                            arrSel0 = saveArray1[k].value;
+                            arrObj0 = saveArray1[k].name;
+                            
+                            arrSel1 = saveArray1[k+1].value;
+                            arrObj1 = saveArray1[k+1].name;
+
+                            arrSel2 = saveArray1[k+2].value;
+                            arrObj2 = saveArray1[k + 2].name;
+
+                            arrSel3 = saveArray1[k + 3].value;
+                            arrObj3 = saveArray1[k + 3].name;
+                      
+                            bldCart = { ProductID: arrSel0, Name: arrSel1, Price: arrSel2, Quantity: arrSel3, CustomerRefId: custRefId };
+                            saveBld = jQuery.param(bldCart);
+                            bldArray.push(saveBld);
+                            rtnOrdArray.push(bldCart);
+                            k = k + 4;
+                    }
+                    
+                    bldArray.forEach(postFunction);                    
+                    function postFunction(value) {
+                        $.post(uriCrtSav, value) //ajax post of cart data to database
+                            .done(function (data) {                                                               
+                            });                    
+                    }
+
+                            //display saved order
+                            $('#custMsg').text("Thank you, " + datFname + " " + datLname + "!");
+                            $('#rtn').show();
+                            rtnOrdArray.forEach(rtnFunction);
+                            function rtnFunction(value) {
+                                rtnOrdHTML = "<tr><td>" + value.CustomerRefId + "</td><td>" + value.ProductID +  
+                                    "</td><td>" + value.Name + "</td ><td>" + value.Price + "</td><td>" + value.Quantity + "</td></tr >";
+
+                                $('#rtnOrdTable').append(rtnOrdHTML);                               
+                            }                            
+                    
+                });
+        };
+
+      
+        //begins form and cart validation
+        $(document).ready(function () {
+
+            $('#fName').focus(function() {
+                $('#fName').val("").css("color", "black");
+            });
+            $('#lName').focus(function() {
+                $('#lName').val("").css("color", "black");
+            });
+            $('#address').focus(function() {
+                $('#address').val("").css("color", "black");
+            }); 
+            $('#city').focus(function() {
+                $('#city').val("").css("color", "black");
+            });
+            $('#state').focus(function() {
+                $('#state').val("").css("color", "black");
+            });
+            $('#zipcode').focus(function() {
+                $('#zipcode').val("").css("color", "black");
+            });
+
+
+            $('#save').click(function (e) {
+                e.preventDefault();
+                
+                var first_name = $('#fName').val(); 
+                var last_name = $('#lName').val();                
+                var address = $('#address').val();
+                var city = $('#city').val();
+                var state = $('#state').val();
+                var zip = $('#zipcode').val();
+                
+                const regExZipCode = /^\d{5}$/;
+                const cartErrorHTML = "<tr><td colspan='5' id='cartErr'>Cart can't be empty.</td></tr >";
+                var frm2Val = true;
+                var checkCart = [];
+
+                $(".error").remove();
+
+                checkCart = $('#cartFrm :input').serializeArray();
+                if (checkCart.length == 0) {
+                    $('#cart').show();
+                    $('#cartTable').append(cartErrorHTML);         
+                    crtError = true;                    
+                    frm2Val = false;
+                }
+                
+                if (first_name.length < 1 || first_name == "required") {                    
+                    $('#fName').val("required").css("color", "red");
+                    frm2Val = false;
+                }
+                if (last_name.length < 1 || last_name == "required") {
+                    $('#lName').val("required").css("color", "red");
+                    frm2Val = false;
+                }
+                if (address.length < 1 || address == "required") {
+                    $('#address').val("required").css("color", "red");
+                    frm2Val = false;
+                }
+                if (city.length < 1 || city == "required") {
+                    $('#city').val("required").css("color", "red");
+                    frm2Val = false;
+                }
+                if (state.length < 1 || state == "required") {
+                    $('#state').val("required").css("color", "red");
+                    frm2Val = false;
+                }
+                if (zip.length < 1 || zip == "required") {
+                    $('#zipcode').val("required").css("color", "red");
+                    frm2Val = false;
+                }
+                else if (regExZipCode.test(zip) != true) {
+                    $('#zipcode').val("5 digit zip code").css("color", "red");
+                    frm2Val = false;
+                }                
+                else if (frm2Val == true ) {
+                    $.saveFrm();
+                }
+            });
+        });
+    </script>
+
+    <!--begin HTML-->
+    <div id="btnDiv">
+        <span id="btnSpan">
+            <button class="topBtn" id="showCart" type="button">Show Cart</button>
+            <button class="topBtn" id="contShop" type="button">Continue Shopping</button>
+            <button class="topBtn" id="chkOut" type="button">Checkout</button>
+        </span>
+    </div>
+    
+    <div id="mainDiv"> 
+
+        <div id="rtn">
+            <table id="rtnOrdTable">
+                <tr>
+                    <th colspan="5" id="custMsg"</th>
+                </tr>
+                <tr>                    
+                    <th colspan="5">Your Saved Order</th>
+                </tr>
+                <tr>
+                    <th>Customer ID</th>                    
+                    <th>Product ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                </tr>
+            </table>
+        </div>
+
+        <aside id="aside">
+            <div id="dropD">
+                <form id="frm1">
+                    <select id="dropdown"></select>
+                </form>
+            </div>
+
+            <div id="custInfo">
+                <form id="frm2">
+                    <table id="infor">
+                        <tr>
+                            <th colspan="2">
+                                Shipping Information
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="fName">First Name</label>
+                            </td>
+                            <td>
+                                <input type="text" name="fName" id="fName" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="lName">Last Name</label>
+                            </td>
+                            <td>
+                                <input type="text" name="lName" id="lName" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="address">Address</label>
+                            </td>
+                            <td>
+                                <input type="text" name="address" id="address" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="city">City</label>
+                            </td>
+                            <td>
+                                <input type="text" name="city" id="city" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="state">State</label>
+                            </td>
+                            <td>
+                                <input type="text" name="state" id="state" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="zipcode">Zipcode</label>
+                            </td>
+                            <td>
+                                <input type="text" name="zipcode" id="zipcode" />
+                            </td>
+                        </tr>
+                    </table>
+                    <button class="topBtn" id="save" type="button">Save Cart</button>
+                </form>
+            </div>
+        </aside>
+
+        <div id="tableDiv">
+            <table id="prodTable"></table>
+        </div>
+
+        <div id="cart">
+            <form id="cartFrm">
+                <table id="cartTable">
+                    <tr>
+                        <th colspan="4">Shopping Cart</th>
+                        <th><button id="clearCart" type="button">Clear Cart</button></th>
+                    </tr>
+                    <tr>
+                        <th>Product ID</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Remove Item</th>
+                    </tr>
+                </table>               
+            </form>
+        </div>
+    </div>
+</body>
+</html>

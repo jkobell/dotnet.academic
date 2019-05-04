@@ -1,0 +1,173 @@
+﻿body {
+    background-color:white;
+    box-sizing:border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mainDiv {
+    width: 90%;
+    margin-left: 5%;    
+    /*border-top: 2px solid black;*/    
+}
+
+#btnDiv {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 2.5em;
+    margin-top: 2.5em;
+    border: 2px solid black;
+    background-color: lightyellow;
+    padding: .75em 0 .75em 0;
+}
+
+.topBtn {
+    
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;    
+    margin-left: 10%;    
+}
+
+#btnSpan {    
+    padding-left: 18%;
+}
+
+#prodTable, #cartTable, #rtnOrdTable {
+    border-collapse: collapse;
+    border: solid 2px black;
+    width: 22em;
+    margin: 1em;
+}
+
+th {
+    border: solid 1px black;
+    padding: 5px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+td {
+    border: solid 1px black;
+    padding: 5px;
+    text-align: center;
+    font-size:medium;
+    font-weight:600;
+}
+
+#cartTable td {
+    background-color: white;
+}
+
+#dropdown {
+    width: 90%;
+    height: 40px;
+    background-color: lightblue;
+    border: 1px solid black;
+    font-size:larger;   
+    padding: .25em;
+    
+}
+
+#aside {
+    display: inline-block;
+    float: left;
+    margin-left: 2em;
+    margin-top: 2em;
+    width: auto;
+}
+
+#dropD {   
+    height: auto;
+    width: 15em;
+    border: 2px solid black;
+    background-color: lightyellow;
+    padding: .8em .8em .8em .8em;
+}
+
+#custInfo {
+    height: auto;    
+    width: auto;
+    border: 2px solid black;
+    background-color: lightyellow;
+    padding: .8em .8em .8em .8em;
+}
+
+#save {
+    margin-top: .8em;
+    margin-left:20%;
+    
+}
+
+
+
+#infor {
+    border-collapse: collapse;
+    text-align:center;
+    
+}
+
+#infor td {
+   background-color: lightgrey;
+   height: 2em;
+
+}
+
+#frm2 input {
+    text-align:center;
+}
+
+input {
+    height: 1.5em;
+}
+
+#tableDiv {
+   
+    height: 250px;
+    overflow-y: auto;
+    display: inline-block;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2em;
+}
+
+#rtn {
+    height: 250px;
+    overflow-y: scroll;
+    display: inline-block;
+    float: none;
+    margin-left: 30%;
+    margin-top: 2em;
+}
+
+#cart {
+    
+    height: 250px;
+    overflow-y: scroll;
+    display: inline-block;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2em;
+}
+
+form label {
+    display: inline-block;
+    width: 100px;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+.error {
+    color: red;
+    margin-left: 5px;
+}
+
+label.error {
+    display: inline;
+}
+
+#cartErr {
+    color: red;
+}
+
